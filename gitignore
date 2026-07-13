@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.db
+.env
+encrypted_files/*
+!.gitkeep
+.vscode/
+.idea/
